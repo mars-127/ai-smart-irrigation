@@ -1,0 +1,2 @@
+#MICROPYTHON DEPENDENCIES
+micropython-esp32-stubs

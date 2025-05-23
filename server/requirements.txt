@@ -1,0 +1,7 @@
+#PYTHON SERVER DEPENDENCIES
+flask==2.0.1
+pymongo==4.0.1
+python-dotenv==0.19.0
+
+#Install dependencies with: 
+# pip install -r requirements.txt
